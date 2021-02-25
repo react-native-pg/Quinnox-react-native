@@ -1,0 +1,12 @@
+{
+  "name": "Quinnox-App",
+  "displayName": "Quinnox-App",
+  "expo": {
+    "name": "Quinnox-App",
+    "slug": "Quinnox-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
